@@ -1,4 +1,4 @@
-{
+const deploy = {
   "version": 2,
   "builds": [
     {
